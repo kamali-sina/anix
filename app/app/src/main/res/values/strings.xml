@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">anix</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="do_crypto">Crypto Test</string>
+    <string name="do_component">Component Creation Test</string>
+    <string name="do_message_exchange">Message Test</string>
+    <string name="receive_message_exchange">Receive</string>
+
+    <string name="lorem_ipsum">
+        Hello World!
+    </string>
+    <string name="mac_header_text">Destination MAC is set to: %s</string>
+    <string name="keypair_header_text">KeyPair is set to: %s</string>
+    <string name="set_mac">Set Mac</string>
+
+</resources>
