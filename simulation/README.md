@@ -18,3 +18,9 @@ First, install the requirements by running:
 Then, simply run the project by using:
 
     python main.py
+
+## Parameters and how to tune them
+
+All the tweak-able parameters of Anix are stored in the `settings.py` file. There you can find a short comment about what each parameter is, and how it will affect the code. There is also a full table about this available in the appendix of the Anix paper. Below, is a photo of said table.
+
+![A picture of Anix's parameter table](images/Anix-parameter-table.png "Anix's parameter table")
